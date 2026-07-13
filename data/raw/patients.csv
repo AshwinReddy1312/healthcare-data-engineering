@@ -1,0 +1,1001 @@
+patient_id,patient_name,age,gender,city,disease
+1,Kiran Nair,46,Female,Hyderabad,Hypertension
+2,Ravi Singh,39,Female,Chennai,Hypertension
+3,Meera Reddy,23,Female,Bengaluru,Asthma
+4,Meera Khan,69,Male,Kolkata,Flu
+5,Priya Singh,23,Female,Pune,Flu
+6,Sneha Reddy,20,Male,Delhi,Diabetes
+7,Sneha Reddy,42,Female,Kolkata,Arthritis
+8,Meera Kumar,41,Female,Mumbai,Arthritis
+9,Arjun Reddy,56,Male,Mumbai,Hypertension
+10,Anjali Singh,35,Male,Pune,Diabetes
+11,Sneha Sharma,69,Female,Kochi,Asthma
+12,Priya Nair,76,Female,Mumbai,Arthritis
+13,Anjali Singh,74,Female,Chennai,Asthma
+14,Rahul Nair,65,Female,Kochi,Flu
+15,Kiran Patel,32,Male,Kolkata,Diabetes
+16,Amit Reddy,27,Male,Kochi,Flu
+17,Priya Singh,42,Female,Delhi,Flu
+18,Amit Reddy,61,Female,Pune,Diabetes
+19,Arjun Singh,28,Female,Hyderabad,Arthritis
+20,Ravi Khan,80,Male,Bengaluru,Arthritis
+21,Arjun Nair,27,Female,Chennai,Flu
+22,John Sharma,56,Female,Kolkata,Diabetes
+23,Priya Patel,74,Female,Mumbai,Diabetes
+24,Sneha Reddy,23,Female,Bengaluru,Flu
+25,Rahul Kumar,60,Female,Chennai,Asthma
+26,John Singh,79,Male,Mumbai,Arthritis
+27,Arjun Singh,60,Female,Kolkata,Flu
+28,Anjali Reddy,33,Male,Bengaluru,Asthma
+29,Amit Nair,55,Male,Hyderabad,Diabetes
+30,Ravi Sharma,32,Male,Hyderabad,Asthma
+31,Priya Nair,35,Female,Mumbai,Flu
+32,Rahul Joseph,33,Female,Kochi,Hypertension
+33,Priya Reddy,60,Female,Pune,Heart Disease
+34,Kiran Joseph,73,Male,Bengaluru,Diabetes
+35,Kiran Patel,69,Male,Mumbai,Hypertension
+36,Sneha Joseph,26,Female,Chennai,Asthma
+37,Anjali Nair,73,Male,Kolkata,Flu
+38,Priya Sharma,59,Male,Bengaluru,Hypertension
+39,Rahul Singh,49,Female,Mumbai,Heart Disease
+40,Amit Kumar,42,Male,Kochi,Asthma
+41,Anjali Khan,45,Female,Chennai,Hypertension
+42,Arjun Nair,79,Male,Hyderabad,Arthritis
+43,Meera Sharma,21,Female,Chennai,Diabetes
+44,John Reddy,72,Male,Bengaluru,Flu
+45,Priya Nair,43,Male,Mumbai,Flu
+46,Sara Sharma,57,Male,Kochi,Arthritis
+47,Sara Patel,77,Female,Mumbai,Arthritis
+48,Ravi Patel,33,Female,Kochi,Hypertension
+49,David Khan,47,Female,Bengaluru,Diabetes
+50,Anjali Reddy,22,Male,Delhi,Hypertension
+51,Meera Reddy,74,Male,Pune,Asthma
+52,Rahul Joseph,71,Female,Hyderabad,Arthritis
+53,John Khan,77,Male,Chennai,Asthma
+54,Priya Reddy,65,Male,Delhi,Asthma
+55,Sara Nair,63,Female,Mumbai,Arthritis
+56,David Khan,50,Female,Delhi,Diabetes
+57,Priya Singh,71,Female,Hyderabad,Diabetes
+58,Meera Kumar,58,Female,Chennai,Arthritis
+59,Anjali Singh,53,Male,Bengaluru,Diabetes
+60,Ravi Kumar,52,Male,Pune,Flu
+61,John Kumar,45,Male,Hyderabad,Asthma
+62,Meera Sharma,75,Female,Mumbai,Arthritis
+63,Sneha Reddy,40,Female,Chennai,Hypertension
+64,Rahul Kumar,74,Female,Hyderabad,Hypertension
+65,Ravi Patel,68,Female,Mumbai,Asthma
+66,Rahul Reddy,42,Male,Kolkata,Hypertension
+67,Sneha Joseph,40,Female,Mumbai,Hypertension
+68,Amit Nair,43,Female,Delhi,Diabetes
+69,Arjun Patel,59,Female,Pune,Diabetes
+70,Priya Khan,29,Female,Hyderabad,Diabetes
+71,Sara Singh,40,Female,Kochi,Flu
+72,John Reddy,42,Male,Delhi,Diabetes
+73,Ravi Singh,18,Male,Pune,Heart Disease
+74,Priya Patel,57,Female,Bengaluru,Arthritis
+75,Arjun Khan,60,Female,Pune,Heart Disease
+76,Ravi Khan,53,Male,Mumbai,Heart Disease
+77,David Singh,61,Male,Delhi,Heart Disease
+78,John Sharma,37,Female,Mumbai,Heart Disease
+79,Sara Patel,47,Female,Kolkata,Arthritis
+80,Sneha Joseph,68,Male,Bengaluru,Asthma
+81,John Patel,23,Male,Delhi,Hypertension
+82,Sneha Kumar,19,Male,Mumbai,Heart Disease
+83,Sara Reddy,47,Female,Mumbai,Arthritis
+84,Ravi Singh,49,Female,Mumbai,Hypertension
+85,David Sharma,75,Male,Kochi,Hypertension
+86,Rahul Joseph,21,Male,Bengaluru,Heart Disease
+87,Rahul Joseph,60,Female,Kolkata,Flu
+88,Ravi Singh,71,Female,Chennai,Arthritis
+89,Anjali Joseph,34,Male,Delhi,Flu
+90,Anjali Nair,35,Female,Bengaluru,Arthritis
+91,Arjun Nair,35,Female,Pune,Flu
+92,Priya Kumar,27,Male,Kochi,Arthritis
+93,Rahul Nair,22,Female,Kochi,Asthma
+94,John Joseph,44,Male,Mumbai,Heart Disease
+95,Kiran Sharma,72,Female,Kolkata,Diabetes
+96,Meera Khan,66,Female,Kochi,Flu
+97,Ravi Nair,49,Male,Delhi,Heart Disease
+98,Anjali Sharma,42,Female,Kochi,Arthritis
+99,Rahul Joseph,76,Male,Hyderabad,Heart Disease
+100,Sara Sharma,23,Female,Chennai,Heart Disease
+101,Rahul Sharma,34,Female,Pune,Hypertension
+102,Anjali Patel,39,Female,Delhi,Heart Disease
+103,Arjun Reddy,48,Male,Hyderabad,Asthma
+104,Sneha Reddy,67,Male,Hyderabad,Hypertension
+105,Sneha Sharma,57,Male,Mumbai,Hypertension
+106,Anjali Reddy,54,Male,Kolkata,Arthritis
+107,Arjun Patel,28,Male,Chennai,Asthma
+108,Priya Sharma,77,Female,Kochi,Heart Disease
+109,Ravi Nair,22,Male,Bengaluru,Arthritis
+110,Arjun Reddy,68,Male,Pune,Flu
+111,Kiran Patel,22,Female,Hyderabad,Heart Disease
+112,Anjali Reddy,45,Female,Kolkata,Arthritis
+113,Rahul Singh,29,Female,Kolkata,Heart Disease
+114,Kiran Khan,38,Male,Bengaluru,Asthma
+115,Anjali Nair,66,Female,Kochi,Asthma
+116,Amit Joseph,72,Female,Chennai,Heart Disease
+117,Sneha Patel,69,Female,Pune,Asthma
+118,Sara Khan,53,Male,Mumbai,Diabetes
+119,Sneha Singh,49,Male,Kolkata,Arthritis
+120,Ravi Joseph,46,Male,Bengaluru,Asthma
+121,Sneha Singh,62,Male,Delhi,Arthritis
+122,Sara Patel,48,Female,Kochi,Arthritis
+123,John Patel,40,Female,Delhi,Asthma
+124,Arjun Nair,25,Male,Pune,Diabetes
+125,Ravi Kumar,30,Male,Kolkata,Asthma
+126,Ravi Khan,80,Male,Mumbai,Asthma
+127,Sneha Patel,29,Female,Hyderabad,Arthritis
+128,John Kumar,35,Male,Hyderabad,Flu
+129,Arjun Kumar,58,Female,Bengaluru,Diabetes
+130,Sara Khan,48,Female,Kolkata,Asthma
+131,Rahul Sharma,34,Female,Bengaluru,Diabetes
+132,Kiran Joseph,22,Male,Chennai,Hypertension
+133,Sara Khan,23,Male,Bengaluru,Flu
+134,Kiran Nair,67,Female,Kolkata,Heart Disease
+135,Arjun Singh,37,Male,Bengaluru,Hypertension
+136,David Nair,34,Male,Chennai,Hypertension
+137,Rahul Reddy,28,Male,Kochi,Heart Disease
+138,Ravi Joseph,36,Male,Mumbai,Asthma
+139,Ravi Khan,62,Female,Bengaluru,Arthritis
+140,Sneha Khan,68,Male,Kochi,Diabetes
+141,John Nair,59,Male,Delhi,Hypertension
+142,Priya Sharma,28,Female,Delhi,Heart Disease
+143,Priya Joseph,62,Female,Kochi,Asthma
+144,John Joseph,46,Male,Hyderabad,Heart Disease
+145,Ravi Patel,56,Female,Hyderabad,Diabetes
+146,Sneha Sharma,66,Female,Hyderabad,Hypertension
+147,Anjali Joseph,76,Female,Chennai,Flu
+148,Kiran Joseph,80,Male,Kolkata,Asthma
+149,Kiran Patel,38,Male,Chennai,Asthma
+150,Kiran Joseph,36,Female,Hyderabad,Heart Disease
+151,Priya Patel,34,Female,Bengaluru,Heart Disease
+152,John Sharma,60,Female,Kochi,Diabetes
+153,Sneha Patel,57,Female,Kolkata,Diabetes
+154,Sneha Khan,53,Male,Delhi,Heart Disease
+155,Ravi Joseph,25,Male,Mumbai,Arthritis
+156,Rahul Khan,53,Male,Kochi,Diabetes
+157,Sneha Reddy,47,Male,Chennai,Heart Disease
+158,Ravi Khan,50,Female,Kochi,Heart Disease
+159,Anjali Nair,47,Male,Kochi,Hypertension
+160,Sara Kumar,73,Male,Delhi,Heart Disease
+161,Meera Khan,70,Male,Delhi,Arthritis
+162,Arjun Joseph,73,Male,Kolkata,Flu
+163,Anjali Patel,39,Female,Kolkata,Asthma
+164,Sneha Nair,54,Female,Mumbai,Heart Disease
+165,Amit Patel,65,Female,Kochi,Heart Disease
+166,David Kumar,49,Male,Chennai,Flu
+167,Sara Patel,73,Male,Kolkata,Diabetes
+168,John Joseph,18,Male,Kochi,Arthritis
+169,Rahul Reddy,48,Female,Pune,Flu
+170,Ravi Singh,59,Male,Pune,Arthritis
+171,John Singh,79,Female,Kolkata,Flu
+172,Amit Reddy,33,Female,Mumbai,Arthritis
+173,Priya Singh,80,Male,Bengaluru,Heart Disease
+174,Rahul Khan,75,Male,Hyderabad,Asthma
+175,Amit Khan,40,Female,Kochi,Hypertension
+176,Sneha Singh,54,Male,Chennai,Hypertension
+177,Priya Singh,57,Male,Kolkata,Flu
+178,Rahul Nair,47,Female,Kolkata,Asthma
+179,David Sharma,75,Female,Delhi,Arthritis
+180,John Kumar,22,Female,Pune,Flu
+181,Arjun Singh,62,Female,Kolkata,Asthma
+182,Sneha Singh,72,Female,Bengaluru,Hypertension
+183,Kiran Patel,54,Female,Delhi,Diabetes
+184,David Singh,35,Male,Hyderabad,Flu
+185,Ravi Joseph,71,Female,Mumbai,Flu
+186,Meera Nair,58,Male,Delhi,Arthritis
+187,Ravi Kumar,58,Male,Hyderabad,Asthma
+188,Anjali Sharma,55,Female,Chennai,Diabetes
+189,Arjun Patel,65,Female,Chennai,Hypertension
+190,Rahul Patel,51,Female,Chennai,Asthma
+191,Anjali Khan,65,Female,Bengaluru,Heart Disease
+192,Priya Kumar,66,Male,Kochi,Flu
+193,Meera Reddy,68,Female,Hyderabad,Asthma
+194,John Reddy,47,Female,Delhi,Flu
+195,Kiran Patel,24,Male,Kolkata,Diabetes
+196,Sara Patel,76,Male,Bengaluru,Arthritis
+197,Anjali Khan,59,Female,Bengaluru,Hypertension
+198,Amit Sharma,37,Female,Bengaluru,Diabetes
+199,Sneha Kumar,42,Female,Pune,Arthritis
+200,Ravi Singh,55,Male,Kochi,Arthritis
+201,Priya Joseph,57,Female,Delhi,Diabetes
+202,Ravi Patel,31,Female,Kolkata,Hypertension
+203,Meera Reddy,80,Female,Pune,Diabetes
+204,Kiran Khan,30,Male,Kolkata,Diabetes
+205,David Nair,59,Male,Hyderabad,Asthma
+206,Sneha Kumar,68,Male,Bengaluru,Flu
+207,Sneha Nair,70,Male,Pune,Hypertension
+208,Sara Sharma,35,Male,Chennai,Flu
+209,Arjun Kumar,25,Male,Chennai,Diabetes
+210,Meera Nair,55,Female,Hyderabad,Hypertension
+211,Arjun Sharma,26,Female,Bengaluru,Arthritis
+212,Priya Joseph,46,Female,Bengaluru,Heart Disease
+213,John Nair,78,Male,Delhi,Heart Disease
+214,David Sharma,21,Female,Kochi,Heart Disease
+215,David Reddy,49,Female,Bengaluru,Diabetes
+216,Meera Kumar,22,Male,Delhi,Flu
+217,David Patel,42,Female,Kolkata,Flu
+218,Sara Singh,24,Male,Mumbai,Heart Disease
+219,Anjali Nair,44,Female,Kolkata,Heart Disease
+220,Kiran Reddy,38,Female,Pune,Arthritis
+221,Arjun Patel,79,Male,Kolkata,Diabetes
+222,Priya Reddy,23,Female,Bengaluru,Arthritis
+223,Ravi Patel,69,Male,Hyderabad,Flu
+224,John Patel,60,Male,Kochi,Asthma
+225,David Singh,73,Male,Delhi,Flu
+226,Arjun Patel,24,Male,Chennai,Arthritis
+227,Anjali Nair,72,Male,Pune,Flu
+228,Meera Reddy,66,Female,Mumbai,Heart Disease
+229,John Sharma,56,Female,Hyderabad,Hypertension
+230,Arjun Khan,76,Female,Pune,Diabetes
+231,Rahul Kumar,54,Female,Bengaluru,Hypertension
+232,Ravi Sharma,23,Male,Kochi,Heart Disease
+233,Anjali Patel,28,Female,Delhi,Arthritis
+234,Meera Reddy,74,Male,Chennai,Hypertension
+235,Sara Sharma,61,Male,Delhi,Heart Disease
+236,David Singh,49,Female,Kochi,Asthma
+237,Sneha Reddy,40,Female,Bengaluru,Asthma
+238,David Joseph,51,Female,Hyderabad,Hypertension
+239,Kiran Sharma,18,Male,Delhi,Hypertension
+240,Rahul Khan,36,Female,Bengaluru,Diabetes
+241,Anjali Singh,29,Male,Kochi,Flu
+242,Ravi Nair,50,Female,Bengaluru,Heart Disease
+243,Ravi Sharma,45,Male,Kolkata,Diabetes
+244,Meera Singh,54,Female,Kochi,Asthma
+245,Priya Singh,19,Female,Chennai,Flu
+246,Anjali Patel,23,Female,Bengaluru,Hypertension
+247,Kiran Singh,51,Male,Kochi,Asthma
+248,Ravi Patel,32,Female,Chennai,Diabetes
+249,John Reddy,51,Male,Pune,Asthma
+250,Ravi Kumar,33,Male,Chennai,Asthma
+251,Sneha Kumar,56,Male,Bengaluru,Hypertension
+252,David Joseph,47,Female,Pune,Arthritis
+253,Meera Kumar,46,Male,Kolkata,Heart Disease
+254,David Khan,68,Female,Hyderabad,Asthma
+255,John Reddy,37,Female,Kolkata,Diabetes
+256,Amit Patel,71,Female,Bengaluru,Arthritis
+257,Priya Singh,47,Male,Kolkata,Flu
+258,David Nair,38,Female,Chennai,Diabetes
+259,Anjali Reddy,69,Female,Bengaluru,Flu
+260,David Kumar,20,Male,Kolkata,Heart Disease
+261,John Kumar,41,Female,Delhi,Heart Disease
+262,Kiran Patel,61,Male,Pune,Diabetes
+263,Meera Reddy,53,Female,Delhi,Asthma
+264,Ravi Kumar,39,Male,Chennai,Asthma
+265,Arjun Singh,26,Male,Delhi,Flu
+266,Kiran Patel,70,Male,Bengaluru,Arthritis
+267,David Singh,50,Female,Hyderabad,Asthma
+268,Arjun Kumar,78,Male,Pune,Heart Disease
+269,Sneha Nair,26,Male,Bengaluru,Asthma
+270,Priya Sharma,60,Female,Chennai,Flu
+271,Kiran Kumar,28,Male,Chennai,Arthritis
+272,Anjali Sharma,44,Female,Mumbai,Heart Disease
+273,Sara Khan,66,Female,Mumbai,Flu
+274,Sneha Khan,79,Female,Mumbai,Asthma
+275,David Joseph,47,Female,Kochi,Flu
+276,John Singh,79,Male,Mumbai,Flu
+277,Rahul Khan,21,Female,Pune,Flu
+278,Priya Reddy,36,Male,Chennai,Asthma
+279,Anjali Kumar,71,Female,Bengaluru,Hypertension
+280,Anjali Patel,77,Male,Kochi,Diabetes
+281,Kiran Patel,33,Female,Bengaluru,Asthma
+282,Sneha Sharma,38,Male,Pune,Hypertension
+283,Rahul Sharma,36,Female,Chennai,Arthritis
+284,Anjali Joseph,57,Male,Bengaluru,Diabetes
+285,Arjun Nair,71,Male,Kochi,Diabetes
+286,Arjun Nair,37,Male,Hyderabad,Hypertension
+287,Kiran Joseph,22,Male,Kolkata,Flu
+288,John Sharma,58,Male,Chennai,Asthma
+289,Kiran Sharma,57,Female,Mumbai,Flu
+290,Kiran Kumar,60,Male,Pune,Diabetes
+291,John Sharma,42,Female,Hyderabad,Arthritis
+292,Kiran Patel,34,Male,Pune,Diabetes
+293,Meera Nair,64,Male,Pune,Hypertension
+294,Amit Patel,52,Female,Chennai,Arthritis
+295,Anjali Joseph,58,Male,Chennai,Diabetes
+296,Ravi Joseph,20,Female,Mumbai,Diabetes
+297,Sneha Sharma,38,Female,Kochi,Flu
+298,Anjali Khan,20,Male,Delhi,Asthma
+299,Amit Patel,35,Male,Pune,Heart Disease
+300,Kiran Joseph,75,Female,Pune,Hypertension
+301,Anjali Joseph,41,Female,Bengaluru,Arthritis
+302,Kiran Reddy,45,Male,Delhi,Asthma
+303,Priya Reddy,38,Female,Delhi,Heart Disease
+304,Sara Singh,28,Female,Pune,Heart Disease
+305,Amit Patel,57,Female,Delhi,Arthritis
+306,Amit Reddy,60,Female,Pune,Flu
+307,Ravi Kumar,78,Male,Chennai,Flu
+308,David Joseph,20,Male,Bengaluru,Hypertension
+309,David Patel,41,Female,Hyderabad,Flu
+310,Rahul Joseph,78,Female,Pune,Heart Disease
+311,Priya Kumar,51,Female,Kochi,Asthma
+312,David Khan,33,Male,Hyderabad,Arthritis
+313,Rahul Joseph,51,Female,Bengaluru,Asthma
+314,Arjun Joseph,31,Female,Kolkata,Hypertension
+315,Priya Kumar,72,Male,Kolkata,Hypertension
+316,Ravi Joseph,23,Female,Pune,Arthritis
+317,Priya Khan,75,Female,Chennai,Arthritis
+318,Ravi Kumar,68,Female,Mumbai,Diabetes
+319,Sneha Kumar,33,Female,Hyderabad,Asthma
+320,John Patel,47,Male,Bengaluru,Diabetes
+321,Arjun Singh,63,Female,Kochi,Heart Disease
+322,Sara Reddy,26,Female,Bengaluru,Heart Disease
+323,Anjali Patel,26,Male,Chennai,Heart Disease
+324,John Sharma,71,Male,Chennai,Asthma
+325,Rahul Kumar,38,Male,Pune,Flu
+326,Arjun Reddy,34,Male,Delhi,Hypertension
+327,David Khan,57,Male,Chennai,Flu
+328,Sara Kumar,28,Female,Hyderabad,Diabetes
+329,Priya Sharma,78,Female,Mumbai,Flu
+330,Kiran Sharma,49,Female,Delhi,Heart Disease
+331,Sneha Singh,37,Female,Bengaluru,Arthritis
+332,Amit Kumar,46,Female,Kolkata,Heart Disease
+333,Sneha Patel,56,Male,Pune,Arthritis
+334,Meera Patel,80,Female,Chennai,Asthma
+335,John Reddy,38,Male,Kolkata,Diabetes
+336,Arjun Joseph,33,Male,Bengaluru,Diabetes
+337,Arjun Singh,73,Female,Mumbai,Hypertension
+338,Meera Patel,30,Male,Kolkata,Flu
+339,Anjali Joseph,74,Female,Kolkata,Diabetes
+340,Priya Singh,50,Female,Mumbai,Hypertension
+341,Sara Patel,21,Male,Delhi,Heart Disease
+342,Sara Joseph,36,Male,Bengaluru,Heart Disease
+343,Rahul Khan,64,Female,Kochi,Asthma
+344,Amit Singh,21,Male,Pune,Flu
+345,Arjun Reddy,42,Female,Delhi,Flu
+346,David Reddy,26,Male,Kochi,Asthma
+347,Meera Patel,66,Male,Mumbai,Flu
+348,John Singh,50,Male,Hyderabad,Diabetes
+349,Rahul Patel,69,Female,Kolkata,Hypertension
+350,Sara Kumar,38,Female,Chennai,Heart Disease
+351,Sara Khan,55,Female,Kolkata,Arthritis
+352,Sara Khan,48,Male,Pune,Asthma
+353,David Reddy,80,Female,Delhi,Arthritis
+354,Ravi Sharma,56,Female,Delhi,Arthritis
+355,Sara Nair,64,Male,Kolkata,Hypertension
+356,John Singh,27,Male,Hyderabad,Flu
+357,Ravi Reddy,30,Male,Kolkata,Asthma
+358,Kiran Kumar,44,Male,Kochi,Flu
+359,Sara Joseph,73,Male,Chennai,Flu
+360,Sneha Patel,60,Female,Kochi,Asthma
+361,Rahul Joseph,76,Female,Pune,Arthritis
+362,Ravi Khan,57,Female,Mumbai,Hypertension
+363,Arjun Khan,32,Female,Delhi,Arthritis
+364,Sneha Joseph,38,Female,Pune,Flu
+365,Ravi Khan,36,Male,Kochi,Heart Disease
+366,Meera Kumar,36,Male,Delhi,Arthritis
+367,Priya Patel,77,Female,Delhi,Arthritis
+368,Anjali Nair,30,Female,Delhi,Hypertension
+369,Priya Nair,33,Male,Mumbai,Arthritis
+370,Sneha Sharma,24,Female,Pune,Arthritis
+371,Anjali Reddy,61,Male,Hyderabad,Flu
+372,Rahul Singh,59,Female,Kolkata,Arthritis
+373,Sneha Khan,38,Female,Hyderabad,Diabetes
+374,David Nair,52,Male,Chennai,Heart Disease
+375,Rahul Sharma,71,Female,Kolkata,Hypertension
+376,Ravi Khan,74,Male,Hyderabad,Asthma
+377,Sara Reddy,77,Female,Delhi,Heart Disease
+378,David Joseph,74,Male,Kolkata,Asthma
+379,Sneha Reddy,39,Male,Kolkata,Arthritis
+380,Arjun Kumar,18,Female,Delhi,Flu
+381,David Nair,29,Female,Kochi,Flu
+382,Meera Reddy,43,Male,Chennai,Hypertension
+383,Anjali Patel,77,Male,Hyderabad,Asthma
+384,Kiran Nair,46,Female,Pune,Asthma
+385,Sara Sharma,34,Female,Mumbai,Diabetes
+386,David Reddy,47,Female,Chennai,Heart Disease
+387,David Khan,62,Male,Delhi,Asthma
+388,Sara Nair,32,Male,Kolkata,Hypertension
+389,Anjali Patel,44,Female,Mumbai,Hypertension
+390,David Reddy,51,Female,Pune,Diabetes
+391,Sara Reddy,21,Male,Chennai,Hypertension
+392,Meera Joseph,25,Male,Kolkata,Diabetes
+393,John Joseph,69,Male,Kolkata,Hypertension
+394,John Singh,47,Male,Kolkata,Arthritis
+395,Arjun Sharma,43,Female,Hyderabad,Arthritis
+396,Sneha Reddy,20,Female,Pune,Arthritis
+397,Priya Sharma,77,Male,Kolkata,Diabetes
+398,Arjun Singh,29,Male,Kochi,Asthma
+399,Kiran Joseph,73,Female,Kochi,Diabetes
+400,David Kumar,59,Female,Bengaluru,Hypertension
+401,John Singh,51,Male,Mumbai,Diabetes
+402,Amit Khan,47,Female,Kochi,Hypertension
+403,Sneha Joseph,40,Male,Delhi,Hypertension
+404,Ravi Reddy,20,Female,Hyderabad,Hypertension
+405,Sneha Reddy,24,Male,Kolkata,Flu
+406,David Sharma,33,Male,Kochi,Heart Disease
+407,Sneha Nair,66,Male,Chennai,Flu
+408,Arjun Nair,70,Female,Pune,Hypertension
+409,Arjun Kumar,60,Male,Kochi,Asthma
+410,Arjun Sharma,53,Male,Kochi,Flu
+411,Anjali Sharma,80,Female,Kochi,Flu
+412,Meera Singh,44,Male,Delhi,Heart Disease
+413,Rahul Joseph,33,Male,Delhi,Arthritis
+414,Rahul Joseph,76,Male,Kochi,Heart Disease
+415,John Kumar,42,Male,Delhi,Hypertension
+416,Meera Reddy,77,Female,Pune,Diabetes
+417,John Nair,21,Female,Kochi,Arthritis
+418,Sara Sharma,73,Male,Mumbai,Flu
+419,Ravi Nair,48,Male,Pune,Asthma
+420,Amit Nair,77,Male,Bengaluru,Arthritis
+421,Anjali Nair,62,Male,Kochi,Hypertension
+422,John Patel,67,Female,Kochi,Heart Disease
+423,John Patel,37,Female,Pune,Flu
+424,Anjali Joseph,24,Female,Pune,Hypertension
+425,Meera Patel,44,Male,Mumbai,Arthritis
+426,Rahul Sharma,34,Female,Delhi,Hypertension
+427,Sneha Patel,32,Female,Mumbai,Heart Disease
+428,John Patel,34,Female,Kolkata,Heart Disease
+429,Rahul Patel,28,Male,Kolkata,Hypertension
+430,John Sharma,51,Male,Bengaluru,Arthritis
+431,Amit Sharma,44,Male,Mumbai,Diabetes
+432,Ravi Kumar,18,Male,Kolkata,Asthma
+433,Amit Joseph,60,Female,Hyderabad,Diabetes
+434,John Singh,18,Male,Delhi,Flu
+435,Arjun Sharma,50,Female,Chennai,Diabetes
+436,Priya Kumar,33,Male,Delhi,Asthma
+437,Arjun Singh,23,Female,Kochi,Heart Disease
+438,Sara Nair,62,Male,Delhi,Arthritis
+439,Priya Sharma,23,Female,Kochi,Heart Disease
+440,John Joseph,21,Male,Chennai,Diabetes
+441,Anjali Singh,59,Female,Bengaluru,Flu
+442,Amit Nair,31,Female,Delhi,Diabetes
+443,Priya Khan,75,Male,Chennai,Asthma
+444,Amit Nair,55,Male,Kochi,Diabetes
+445,Arjun Kumar,54,Male,Kochi,Arthritis
+446,John Patel,42,Male,Bengaluru,Flu
+447,Ravi Patel,21,Male,Kochi,Hypertension
+448,Priya Patel,56,Female,Pune,Diabetes
+449,David Khan,68,Female,Kolkata,Hypertension
+450,Meera Singh,45,Male,Kochi,Diabetes
+451,Sara Khan,69,Male,Bengaluru,Diabetes
+452,Arjun Kumar,42,Male,Kochi,Asthma
+453,Meera Reddy,23,Male,Delhi,Heart Disease
+454,Meera Khan,24,Male,Bengaluru,Hypertension
+455,Kiran Joseph,53,Female,Bengaluru,Diabetes
+456,Priya Patel,53,Male,Pune,Heart Disease
+457,Amit Khan,44,Female,Bengaluru,Arthritis
+458,John Nair,54,Male,Kochi,Hypertension
+459,Rahul Khan,37,Female,Kolkata,Hypertension
+460,Priya Kumar,45,Female,Kochi,Asthma
+461,Anjali Reddy,41,Female,Mumbai,Arthritis
+462,David Joseph,56,Male,Kolkata,Diabetes
+463,Rahul Khan,18,Female,Pune,Flu
+464,Kiran Patel,46,Female,Kochi,Arthritis
+465,Sara Kumar,37,Female,Mumbai,Heart Disease
+466,Meera Kumar,79,Female,Pune,Asthma
+467,Ravi Joseph,79,Male,Pune,Heart Disease
+468,Arjun Singh,41,Male,Mumbai,Flu
+469,John Kumar,61,Male,Kolkata,Arthritis
+470,Sneha Joseph,69,Female,Bengaluru,Heart Disease
+471,David Joseph,26,Female,Mumbai,Asthma
+472,David Kumar,63,Female,Kochi,Diabetes
+473,Anjali Joseph,55,Female,Kochi,Flu
+474,Amit Patel,62,Male,Bengaluru,Hypertension
+475,David Patel,28,Male,Kochi,Asthma
+476,Kiran Reddy,18,Male,Delhi,Hypertension
+477,John Nair,46,Female,Kochi,Heart Disease
+478,David Kumar,40,Male,Kolkata,Diabetes
+479,Arjun Singh,76,Male,Bengaluru,Arthritis
+480,Rahul Patel,37,Female,Kolkata,Hypertension
+481,John Joseph,40,Female,Bengaluru,Heart Disease
+482,Ravi Joseph,38,Male,Delhi,Diabetes
+483,Ravi Reddy,19,Female,Bengaluru,Arthritis
+484,Rahul Nair,51,Male,Chennai,Asthma
+485,John Singh,79,Female,Mumbai,Heart Disease
+486,David Kumar,29,Female,Kochi,Diabetes
+487,Ravi Nair,46,Female,Kochi,Diabetes
+488,Ravi Nair,31,Female,Bengaluru,Flu
+489,Priya Kumar,41,Female,Mumbai,Heart Disease
+490,Priya Khan,60,Female,Pune,Flu
+491,Kiran Singh,55,Male,Pune,Asthma
+492,Anjali Kumar,70,Female,Bengaluru,Arthritis
+493,Rahul Patel,25,Male,Delhi,Diabetes
+494,Rahul Patel,62,Male,Kochi,Heart Disease
+495,Sara Kumar,54,Female,Kochi,Hypertension
+496,Anjali Kumar,53,Male,Kolkata,Asthma
+497,Rahul Kumar,38,Female,Hyderabad,Asthma
+498,Amit Joseph,26,Male,Kochi,Flu
+499,John Joseph,44,Female,Kochi,Arthritis
+500,Anjali Joseph,28,Male,Hyderabad,Hypertension
+501,Arjun Sharma,35,Male,Delhi,Hypertension
+502,Anjali Joseph,53,Male,Bengaluru,Asthma
+503,John Patel,52,Male,Kolkata,Flu
+504,Sneha Singh,24,Male,Delhi,Diabetes
+505,Anjali Khan,40,Male,Kolkata,Diabetes
+506,Sneha Nair,69,Female,Kochi,Hypertension
+507,Sara Kumar,68,Male,Mumbai,Diabetes
+508,Sara Patel,52,Female,Chennai,Asthma
+509,Ravi Khan,36,Female,Bengaluru,Hypertension
+510,Kiran Sharma,35,Male,Chennai,Hypertension
+511,Rahul Patel,71,Male,Kochi,Heart Disease
+512,Rahul Khan,58,Female,Kochi,Heart Disease
+513,Priya Reddy,43,Female,Pune,Heart Disease
+514,Anjali Patel,55,Male,Bengaluru,Arthritis
+515,Anjali Patel,72,Male,Kochi,Hypertension
+516,Kiran Nair,49,Female,Pune,Asthma
+517,Meera Kumar,54,Female,Pune,Arthritis
+518,Amit Sharma,24,Female,Hyderabad,Diabetes
+519,Rahul Joseph,47,Male,Kochi,Hypertension
+520,Ravi Kumar,74,Female,Chennai,Asthma
+521,Priya Patel,34,Male,Pune,Arthritis
+522,David Kumar,21,Female,Delhi,Arthritis
+523,Ravi Nair,45,Male,Bengaluru,Diabetes
+524,Sneha Joseph,22,Male,Mumbai,Flu
+525,David Joseph,18,Male,Pune,Diabetes
+526,Kiran Kumar,48,Male,Mumbai,Heart Disease
+527,Priya Reddy,24,Female,Pune,Asthma
+528,Rahul Singh,67,Male,Chennai,Diabetes
+529,John Sharma,57,Male,Kolkata,Asthma
+530,Ravi Nair,58,Male,Kochi,Flu
+531,David Joseph,73,Male,Bengaluru,Diabetes
+532,Rahul Reddy,55,Female,Pune,Heart Disease
+533,Meera Kumar,33,Female,Bengaluru,Hypertension
+534,John Khan,67,Male,Delhi,Hypertension
+535,John Nair,65,Female,Delhi,Arthritis
+536,Amit Nair,49,Female,Bengaluru,Hypertension
+537,Anjali Reddy,51,Male,Pune,Asthma
+538,Rahul Singh,73,Female,Pune,Flu
+539,David Kumar,66,Female,Bengaluru,Diabetes
+540,Sara Reddy,18,Female,Mumbai,Diabetes
+541,Amit Singh,50,Female,Kochi,Heart Disease
+542,Ravi Singh,23,Male,Delhi,Diabetes
+543,Arjun Reddy,50,Male,Chennai,Flu
+544,Meera Singh,55,Male,Delhi,Arthritis
+545,Kiran Nair,21,Male,Bengaluru,Heart Disease
+546,Priya Joseph,57,Male,Delhi,Arthritis
+547,Ravi Kumar,25,Male,Chennai,Arthritis
+548,Amit Kumar,49,Female,Delhi,Hypertension
+549,Meera Kumar,65,Female,Bengaluru,Diabetes
+550,Meera Singh,35,Male,Delhi,Arthritis
+551,Sara Reddy,49,Female,Pune,Diabetes
+552,Anjali Kumar,41,Male,Delhi,Diabetes
+553,Sara Reddy,32,Male,Hyderabad,Diabetes
+554,Sneha Sharma,48,Female,Kochi,Hypertension
+555,Rahul Sharma,53,Female,Mumbai,Asthma
+556,Sneha Singh,76,Female,Delhi,Diabetes
+557,Sara Patel,25,Male,Chennai,Hypertension
+558,John Sharma,79,Female,Bengaluru,Heart Disease
+559,Arjun Khan,38,Male,Kolkata,Diabetes
+560,Meera Nair,36,Female,Mumbai,Heart Disease
+561,Meera Joseph,67,Male,Mumbai,Hypertension
+562,Amit Singh,19,Male,Pune,Arthritis
+563,Ravi Sharma,78,Female,Hyderabad,Arthritis
+564,Kiran Khan,24,Male,Mumbai,Heart Disease
+565,Anjali Sharma,80,Male,Delhi,Diabetes
+566,Amit Nair,75,Female,Pune,Heart Disease
+567,Ravi Reddy,55,Male,Chennai,Arthritis
+568,Kiran Reddy,55,Male,Kochi,Arthritis
+569,Rahul Nair,36,Female,Pune,Heart Disease
+570,Ravi Patel,38,Female,Delhi,Hypertension
+571,Priya Nair,26,Male,Chennai,Diabetes
+572,Rahul Joseph,47,Female,Kochi,Diabetes
+573,John Patel,79,Male,Kolkata,Asthma
+574,Anjali Khan,72,Male,Bengaluru,Hypertension
+575,David Khan,70,Male,Mumbai,Asthma
+576,Rahul Reddy,63,Male,Pune,Heart Disease
+577,John Sharma,61,Female,Delhi,Hypertension
+578,Amit Singh,72,Female,Mumbai,Diabetes
+579,Anjali Reddy,69,Male,Bengaluru,Diabetes
+580,Amit Nair,26,Male,Kochi,Asthma
+581,David Reddy,55,Female,Bengaluru,Diabetes
+582,Priya Nair,75,Female,Chennai,Diabetes
+583,Meera Reddy,20,Female,Hyderabad,Hypertension
+584,Sara Singh,70,Female,Kolkata,Diabetes
+585,Kiran Singh,29,Female,Mumbai,Hypertension
+586,Arjun Khan,46,Male,Hyderabad,Flu
+587,Sara Nair,59,Female,Kolkata,Heart Disease
+588,John Joseph,21,Male,Delhi,Heart Disease
+589,Rahul Singh,30,Male,Hyderabad,Heart Disease
+590,Ravi Patel,48,Female,Pune,Flu
+591,John Patel,42,Female,Chennai,Diabetes
+592,Meera Nair,19,Female,Hyderabad,Heart Disease
+593,John Patel,67,Male,Chennai,Diabetes
+594,Sneha Nair,35,Male,Mumbai,Flu
+595,Kiran Patel,77,Male,Chennai,Hypertension
+596,Sara Patel,69,Female,Hyderabad,Arthritis
+597,Ravi Patel,78,Male,Mumbai,Heart Disease
+598,John Khan,29,Female,Hyderabad,Diabetes
+599,Amit Nair,56,Male,Hyderabad,Flu
+600,Anjali Sharma,39,Male,Chennai,Asthma
+601,Ravi Kumar,76,Female,Hyderabad,Diabetes
+602,Rahul Kumar,67,Male,Pune,Diabetes
+603,Meera Singh,55,Male,Pune,Asthma
+604,Meera Kumar,80,Male,Kochi,Arthritis
+605,Anjali Patel,29,Female,Mumbai,Arthritis
+606,Sara Kumar,42,Female,Delhi,Hypertension
+607,Rahul Sharma,78,Female,Hyderabad,Hypertension
+608,Sara Patel,76,Male,Bengaluru,Heart Disease
+609,Rahul Patel,65,Male,Mumbai,Asthma
+610,Meera Kumar,58,Male,Pune,Heart Disease
+611,Amit Khan,31,Male,Bengaluru,Asthma
+612,Arjun Reddy,64,Male,Hyderabad,Heart Disease
+613,Anjali Singh,80,Male,Kochi,Heart Disease
+614,Kiran Patel,52,Female,Bengaluru,Heart Disease
+615,Sara Nair,28,Female,Bengaluru,Diabetes
+616,Arjun Sharma,38,Female,Bengaluru,Diabetes
+617,Meera Kumar,74,Female,Chennai,Arthritis
+618,Priya Reddy,39,Female,Hyderabad,Heart Disease
+619,David Kumar,56,Female,Chennai,Diabetes
+620,Priya Patel,31,Male,Kochi,Arthritis
+621,John Khan,60,Female,Delhi,Hypertension
+622,Priya Sharma,43,Female,Chennai,Diabetes
+623,Meera Sharma,45,Male,Delhi,Arthritis
+624,David Joseph,30,Male,Hyderabad,Hypertension
+625,Rahul Khan,80,Male,Kolkata,Diabetes
+626,Arjun Singh,48,Female,Delhi,Diabetes
+627,David Singh,29,Female,Kochi,Asthma
+628,Rahul Joseph,20,Female,Kolkata,Heart Disease
+629,Arjun Nair,71,Female,Hyderabad,Hypertension
+630,Ravi Reddy,23,Female,Kochi,Flu
+631,Sneha Sharma,71,Female,Kochi,Flu
+632,David Joseph,54,Male,Kolkata,Asthma
+633,Priya Singh,75,Male,Chennai,Diabetes
+634,Anjali Kumar,78,Male,Mumbai,Hypertension
+635,Rahul Sharma,45,Male,Kochi,Hypertension
+636,David Kumar,71,Female,Pune,Arthritis
+637,Priya Reddy,42,Female,Pune,Asthma
+638,John Joseph,76,Male,Kochi,Diabetes
+639,Kiran Kumar,27,Male,Bengaluru,Flu
+640,Priya Khan,73,Female,Kochi,Asthma
+641,Kiran Joseph,54,Female,Hyderabad,Hypertension
+642,Arjun Singh,27,Female,Hyderabad,Heart Disease
+643,Meera Nair,21,Female,Delhi,Asthma
+644,Amit Patel,70,Female,Delhi,Asthma
+645,Anjali Reddy,80,Male,Chennai,Asthma
+646,Ravi Joseph,67,Female,Delhi,Arthritis
+647,Kiran Reddy,30,Female,Mumbai,Heart Disease
+648,Ravi Joseph,66,Female,Hyderabad,Flu
+649,Rahul Reddy,37,Female,Chennai,Flu
+650,Sara Sharma,29,Male,Mumbai,Diabetes
+651,Sneha Sharma,47,Male,Pune,Arthritis
+652,Sneha Khan,41,Female,Kochi,Arthritis
+653,Priya Sharma,33,Female,Kolkata,Flu
+654,Anjali Kumar,79,Female,Pune,Asthma
+655,Rahul Khan,65,Male,Delhi,Diabetes
+656,Kiran Sharma,28,Male,Mumbai,Arthritis
+657,Sneha Nair,35,Female,Hyderabad,Arthritis
+658,Amit Joseph,76,Male,Chennai,Flu
+659,Amit Nair,34,Female,Delhi,Heart Disease
+660,Kiran Patel,47,Female,Mumbai,Heart Disease
+661,Arjun Singh,55,Male,Hyderabad,Flu
+662,David Patel,53,Female,Delhi,Arthritis
+663,Priya Joseph,22,Female,Delhi,Arthritis
+664,Meera Khan,34,Female,Mumbai,Hypertension
+665,John Nair,75,Male,Kochi,Arthritis
+666,Meera Kumar,64,Male,Kolkata,Asthma
+667,Arjun Singh,43,Female,Hyderabad,Flu
+668,Ravi Nair,39,Male,Kolkata,Arthritis
+669,Meera Khan,72,Male,Chennai,Asthma
+670,Priya Joseph,26,Female,Chennai,Arthritis
+671,Meera Reddy,32,Female,Mumbai,Arthritis
+672,Arjun Singh,68,Female,Pune,Asthma
+673,Sara Khan,47,Male,Kolkata,Diabetes
+674,David Reddy,48,Male,Bengaluru,Arthritis
+675,Kiran Khan,44,Male,Chennai,Hypertension
+676,Sneha Patel,44,Female,Chennai,Asthma
+677,Ravi Kumar,67,Male,Kolkata,Asthma
+678,David Kumar,38,Male,Hyderabad,Heart Disease
+679,Arjun Nair,66,Male,Chennai,Heart Disease
+680,Priya Kumar,57,Female,Kochi,Heart Disease
+681,Kiran Joseph,42,Male,Hyderabad,Flu
+682,Sneha Patel,78,Male,Pune,Flu
+683,Sneha Sharma,61,Male,Mumbai,Hypertension
+684,Ravi Patel,37,Male,Bengaluru,Heart Disease
+685,John Khan,28,Male,Hyderabad,Asthma
+686,Arjun Joseph,64,Female,Kochi,Arthritis
+687,Rahul Patel,75,Female,Pune,Hypertension
+688,Rahul Singh,19,Male,Mumbai,Arthritis
+689,Rahul Nair,64,Male,Chennai,Diabetes
+690,Meera Sharma,42,Female,Hyderabad,Flu
+691,Amit Reddy,59,Male,Hyderabad,Arthritis
+692,Priya Singh,46,Female,Bengaluru,Flu
+693,Arjun Joseph,62,Male,Mumbai,Arthritis
+694,David Sharma,37,Female,Bengaluru,Arthritis
+695,John Khan,57,Male,Kochi,Diabetes
+696,John Reddy,36,Male,Bengaluru,Heart Disease
+697,Sneha Nair,67,Female,Mumbai,Asthma
+698,Ravi Singh,36,Male,Hyderabad,Flu
+699,Anjali Nair,62,Female,Pune,Hypertension
+700,Amit Sharma,60,Male,Bengaluru,Flu
+701,David Joseph,27,Male,Bengaluru,Arthritis
+702,Ravi Reddy,75,Female,Mumbai,Heart Disease
+703,Arjun Khan,47,Male,Bengaluru,Hypertension
+704,Amit Khan,41,Female,Kochi,Arthritis
+705,Priya Reddy,72,Male,Hyderabad,Hypertension
+706,David Kumar,39,Female,Kolkata,Flu
+707,Arjun Reddy,41,Female,Chennai,Diabetes
+708,Kiran Singh,79,Female,Delhi,Heart Disease
+709,Ravi Joseph,69,Female,Chennai,Diabetes
+710,Rahul Sharma,80,Male,Bengaluru,Heart Disease
+711,Sara Joseph,69,Female,Chennai,Flu
+712,Kiran Patel,57,Male,Chennai,Heart Disease
+713,Anjali Reddy,74,Female,Kolkata,Diabetes
+714,Priya Khan,59,Female,Hyderabad,Arthritis
+715,David Nair,80,Female,Bengaluru,Heart Disease
+716,David Nair,48,Female,Kochi,Hypertension
+717,John Sharma,18,Male,Kolkata,Heart Disease
+718,Rahul Reddy,66,Female,Pune,Hypertension
+719,Meera Khan,21,Male,Kochi,Heart Disease
+720,Sneha Reddy,47,Female,Kolkata,Diabetes
+721,Anjali Joseph,38,Male,Kolkata,Arthritis
+722,David Sharma,24,Female,Kochi,Diabetes
+723,John Sharma,70,Male,Delhi,Flu
+724,John Nair,59,Female,Pune,Asthma
+725,Amit Nair,72,Female,Pune,Flu
+726,Sara Joseph,63,Female,Kolkata,Diabetes
+727,Priya Nair,18,Female,Pune,Arthritis
+728,Arjun Patel,62,Male,Hyderabad,Hypertension
+729,Anjali Kumar,70,Female,Bengaluru,Asthma
+730,Sara Nair,30,Male,Kochi,Hypertension
+731,Anjali Nair,63,Female,Bengaluru,Heart Disease
+732,Amit Reddy,67,Female,Kolkata,Arthritis
+733,Sara Kumar,79,Female,Hyderabad,Flu
+734,Ravi Sharma,53,Female,Kolkata,Flu
+735,Rahul Kumar,64,Male,Bengaluru,Heart Disease
+736,David Patel,50,Female,Kochi,Flu
+737,Ravi Nair,35,Female,Pune,Asthma
+738,Anjali Kumar,26,Female,Delhi,Arthritis
+739,John Patel,63,Male,Mumbai,Hypertension
+740,Sara Khan,61,Female,Chennai,Arthritis
+741,David Kumar,50,Female,Bengaluru,Asthma
+742,John Joseph,55,Female,Delhi,Heart Disease
+743,Amit Reddy,19,Female,Chennai,Diabetes
+744,David Sharma,30,Female,Chennai,Asthma
+745,David Khan,27,Male,Delhi,Hypertension
+746,John Sharma,40,Female,Bengaluru,Flu
+747,David Nair,65,Female,Mumbai,Flu
+748,Ravi Khan,62,Male,Kochi,Heart Disease
+749,Kiran Patel,79,Male,Hyderabad,Arthritis
+750,Arjun Nair,57,Female,Mumbai,Arthritis
+751,Ravi Patel,66,Male,Mumbai,Asthma
+752,Anjali Kumar,80,Male,Chennai,Hypertension
+753,Ravi Reddy,42,Male,Kochi,Asthma
+754,John Khan,26,Male,Delhi,Diabetes
+755,Meera Joseph,63,Male,Hyderabad,Hypertension
+756,Meera Sharma,67,Female,Kolkata,Flu
+757,John Patel,22,Female,Mumbai,Hypertension
+758,John Reddy,68,Male,Kochi,Flu
+759,John Singh,23,Female,Mumbai,Hypertension
+760,David Patel,39,Female,Delhi,Hypertension
+761,Sara Joseph,53,Male,Bengaluru,Arthritis
+762,Meera Joseph,33,Male,Hyderabad,Arthritis
+763,Meera Singh,76,Male,Kochi,Asthma
+764,John Khan,19,Female,Kolkata,Heart Disease
+765,Amit Khan,75,Male,Pune,Flu
+766,Priya Reddy,28,Male,Bengaluru,Hypertension
+767,David Nair,73,Female,Bengaluru,Hypertension
+768,John Singh,59,Male,Chennai,Diabetes
+769,Anjali Patel,20,Male,Bengaluru,Diabetes
+770,Rahul Khan,53,Male,Mumbai,Asthma
+771,Kiran Singh,46,Female,Kochi,Asthma
+772,Amit Singh,61,Male,Hyderabad,Arthritis
+773,Ravi Reddy,66,Male,Bengaluru,Asthma
+774,John Reddy,36,Female,Bengaluru,Asthma
+775,Anjali Singh,43,Male,Kolkata,Hypertension
+776,John Nair,26,Female,Delhi,Arthritis
+777,Rahul Khan,61,Female,Hyderabad,Flu
+778,John Kumar,25,Male,Hyderabad,Flu
+779,Sara Singh,52,Male,Delhi,Hypertension
+780,Ravi Patel,31,Female,Chennai,Hypertension
+781,Rahul Nair,57,Female,Mumbai,Diabetes
+782,Rahul Sharma,72,Female,Bengaluru,Asthma
+783,David Reddy,34,Male,Mumbai,Arthritis
+784,Sara Joseph,78,Female,Pune,Hypertension
+785,David Nair,24,Female,Bengaluru,Hypertension
+786,Meera Joseph,46,Female,Delhi,Arthritis
+787,Sara Kumar,54,Female,Pune,Heart Disease
+788,Rahul Sharma,38,Male,Mumbai,Arthritis
+789,Ravi Singh,35,Female,Chennai,Arthritis
+790,Ravi Patel,74,Female,Kolkata,Heart Disease
+791,Meera Khan,49,Male,Chennai,Arthritis
+792,Sara Reddy,71,Female,Chennai,Flu
+793,Sneha Khan,64,Male,Bengaluru,Diabetes
+794,John Sharma,70,Female,Mumbai,Diabetes
+795,John Khan,52,Female,Chennai,Asthma
+796,Kiran Nair,75,Female,Chennai,Heart Disease
+797,John Reddy,43,Female,Hyderabad,Arthritis
+798,Sneha Kumar,66,Male,Kolkata,Hypertension
+799,Rahul Kumar,65,Female,Pune,Diabetes
+800,Sneha Joseph,32,Male,Delhi,Asthma
+801,Sneha Sharma,60,Male,Pune,Heart Disease
+802,Anjali Joseph,74,Male,Hyderabad,Arthritis
+803,Meera Reddy,63,Female,Delhi,Flu
+804,John Kumar,42,Female,Pune,Flu
+805,David Reddy,51,Female,Kochi,Hypertension
+806,John Singh,40,Female,Kolkata,Heart Disease
+807,Sara Sharma,50,Male,Kolkata,Hypertension
+808,Sneha Reddy,50,Female,Mumbai,Hypertension
+809,Rahul Kumar,41,Male,Mumbai,Heart Disease
+810,Meera Reddy,48,Female,Kolkata,Hypertension
+811,Sara Kumar,59,Female,Hyderabad,Hypertension
+812,Amit Kumar,54,Male,Chennai,Arthritis
+813,John Sharma,75,Male,Hyderabad,Hypertension
+814,Arjun Kumar,51,Female,Hyderabad,Arthritis
+815,Ravi Khan,78,Male,Mumbai,Heart Disease
+816,Sara Joseph,73,Female,Chennai,Hypertension
+817,Kiran Kumar,68,Male,Delhi,Hypertension
+818,Ravi Patel,77,Female,Bengaluru,Hypertension
+819,Kiran Singh,26,Male,Hyderabad,Hypertension
+820,John Singh,70,Male,Bengaluru,Hypertension
+821,Anjali Sharma,74,Male,Bengaluru,Heart Disease
+822,David Kumar,75,Male,Kochi,Flu
+823,Kiran Patel,73,Male,Kochi,Hypertension
+824,Anjali Singh,40,Male,Kochi,Hypertension
+825,Arjun Joseph,67,Male,Bengaluru,Asthma
+826,Sara Singh,34,Male,Hyderabad,Arthritis
+827,Ravi Sharma,54,Male,Hyderabad,Heart Disease
+828,David Nair,62,Female,Kochi,Asthma
+829,Priya Kumar,45,Female,Delhi,Flu
+830,Kiran Patel,57,Female,Kochi,Hypertension
+831,Kiran Joseph,29,Female,Kolkata,Asthma
+832,Arjun Patel,67,Female,Chennai,Arthritis
+833,Priya Nair,46,Male,Bengaluru,Hypertension
+834,John Singh,68,Female,Hyderabad,Hypertension
+835,Kiran Sharma,69,Male,Chennai,Heart Disease
+836,Sara Singh,23,Male,Delhi,Hypertension
+837,Meera Reddy,56,Male,Kochi,Heart Disease
+838,Sara Khan,63,Male,Chennai,Arthritis
+839,Anjali Joseph,18,Male,Delhi,Hypertension
+840,Amit Nair,57,Male,Hyderabad,Asthma
+841,Sneha Sharma,80,Male,Bengaluru,Asthma
+842,Kiran Patel,60,Female,Kochi,Flu
+843,Sneha Sharma,65,Male,Bengaluru,Flu
+844,Arjun Patel,40,Female,Mumbai,Flu
+845,Sneha Joseph,77,Female,Hyderabad,Asthma
+846,Rahul Singh,50,Male,Bengaluru,Flu
+847,Arjun Patel,78,Male,Delhi,Flu
+848,Sara Khan,62,Female,Kochi,Flu
+849,Anjali Nair,66,Female,Kolkata,Arthritis
+850,Anjali Sharma,48,Male,Delhi,Diabetes
+851,Kiran Nair,61,Male,Pune,Heart Disease
+852,Meera Sharma,62,Female,Mumbai,Asthma
+853,Priya Singh,61,Female,Bengaluru,Flu
+854,Rahul Joseph,38,Female,Mumbai,Flu
+855,Arjun Kumar,78,Male,Kolkata,Arthritis
+856,Sneha Nair,65,Male,Delhi,Hypertension
+857,Sneha Nair,71,Male,Pune,Hypertension
+858,Priya Reddy,76,Male,Kolkata,Flu
+859,Amit Sharma,72,Female,Pune,Flu
+860,Meera Joseph,75,Female,Kolkata,Hypertension
+861,John Khan,43,Male,Chennai,Diabetes
+862,John Singh,48,Male,Pune,Heart Disease
+863,David Kumar,47,Male,Kolkata,Asthma
+864,Ravi Sharma,18,Male,Kochi,Flu
+865,Priya Patel,41,Female,Chennai,Flu
+866,Arjun Nair,35,Female,Pune,Asthma
+867,Rahul Joseph,45,Male,Kochi,Arthritis
+868,Meera Patel,72,Female,Delhi,Heart Disease
+869,Rahul Kumar,80,Male,Bengaluru,Arthritis
+870,Arjun Nair,53,Female,Kochi,Hypertension
+871,Rahul Kumar,48,Male,Chennai,Heart Disease
+872,Anjali Kumar,75,Female,Kolkata,Asthma
+873,Arjun Sharma,43,Male,Chennai,Diabetes
+874,Sneha Khan,48,Male,Kolkata,Arthritis
+875,Meera Khan,41,Female,Delhi,Asthma
+876,Amit Singh,25,Female,Mumbai,Flu
+877,Sara Kumar,80,Female,Pune,Asthma
+878,David Joseph,67,Female,Bengaluru,Heart Disease
+879,Sara Khan,47,Male,Chennai,Arthritis
+880,Meera Singh,58,Female,Bengaluru,Diabetes
+881,Rahul Patel,32,Female,Pune,Arthritis
+882,Arjun Khan,56,Female,Delhi,Heart Disease
+883,Meera Joseph,44,Male,Chennai,Diabetes
+884,Rahul Nair,60,Female,Bengaluru,Hypertension
+885,Rahul Singh,24,Male,Bengaluru,Heart Disease
+886,John Sharma,19,Female,Bengaluru,Diabetes
+887,Arjun Kumar,23,Female,Delhi,Hypertension
+888,Sneha Khan,46,Male,Chennai,Flu
+889,Rahul Sharma,20,Female,Pune,Heart Disease
+890,Anjali Khan,53,Female,Chennai,Arthritis
+891,John Kumar,55,Female,Kochi,Flu
+892,David Khan,76,Female,Kolkata,Flu
+893,Sneha Reddy,46,Female,Pune,Heart Disease
+894,Arjun Kumar,37,Male,Hyderabad,Flu
+895,Rahul Patel,36,Female,Hyderabad,Arthritis
+896,Anjali Joseph,37,Male,Kochi,Asthma
+897,Sara Nair,68,Male,Pune,Hypertension
+898,Kiran Singh,43,Male,Chennai,Arthritis
+899,Ravi Singh,71,Female,Mumbai,Asthma
+900,Priya Singh,58,Male,Delhi,Asthma
+901,David Khan,44,Male,Bengaluru,Hypertension
+902,Rahul Khan,25,Female,Kolkata,Asthma
+903,Ravi Joseph,30,Female,Hyderabad,Hypertension
+904,Amit Sharma,29,Male,Delhi,Asthma
+905,Rahul Joseph,64,Male,Mumbai,Diabetes
+906,Rahul Sharma,49,Male,Pune,Heart Disease
+907,Arjun Joseph,41,Female,Hyderabad,Asthma
+908,Priya Kumar,21,Female,Kochi,Diabetes
+909,John Joseph,29,Male,Delhi,Heart Disease
+910,Amit Reddy,80,Male,Kochi,Heart Disease
+911,Sneha Sharma,30,Female,Bengaluru,Flu
+912,David Nair,48,Female,Delhi,Asthma
+913,Rahul Sharma,65,Male,Delhi,Heart Disease
+914,David Khan,30,Female,Hyderabad,Arthritis
+915,Sneha Reddy,33,Female,Pune,Diabetes
+916,Rahul Khan,55,Male,Kochi,Hypertension
+917,Amit Sharma,55,Female,Chennai,Asthma
+918,Priya Nair,28,Female,Bengaluru,Arthritis
+919,Sara Patel,77,Male,Hyderabad,Asthma
+920,David Kumar,62,Male,Chennai,Heart Disease
+921,Sneha Patel,80,Female,Kolkata,Arthritis
+922,Sneha Sharma,62,Female,Pune,Arthritis
+923,Rahul Khan,75,Male,Kolkata,Arthritis
+924,Anjali Khan,52,Female,Mumbai,Flu
+925,Rahul Patel,38,Female,Delhi,Flu
+926,John Kumar,22,Male,Kolkata,Asthma
+927,Arjun Patel,47,Male,Kochi,Arthritis
+928,Rahul Sharma,57,Female,Mumbai,Asthma
+929,Ravi Reddy,60,Female,Mumbai,Flu
+930,David Joseph,67,Male,Delhi,Asthma
+931,Kiran Patel,25,Male,Bengaluru,Diabetes
+932,Rahul Kumar,73,Male,Mumbai,Diabetes
+933,Anjali Nair,24,Male,Kochi,Arthritis
+934,Anjali Khan,21,Female,Mumbai,Flu
+935,Ravi Reddy,18,Male,Kolkata,Diabetes
+936,Anjali Sharma,41,Female,Pune,Arthritis
+937,Amit Khan,51,Male,Bengaluru,Asthma
+938,Priya Nair,79,Male,Bengaluru,Arthritis
+939,Sneha Singh,30,Male,Mumbai,Flu
+940,David Kumar,53,Female,Bengaluru,Arthritis
+941,Sara Patel,61,Female,Kochi,Diabetes
+942,Rahul Kumar,53,Female,Pune,Arthritis
+943,Rahul Joseph,77,Female,Pune,Flu
+944,Meera Patel,44,Female,Pune,Flu
+945,Sneha Nair,42,Female,Pune,Heart Disease
+946,Anjali Singh,18,Male,Delhi,Flu
+947,Amit Kumar,74,Female,Hyderabad,Asthma
+948,Sneha Nair,72,Female,Hyderabad,Arthritis
+949,Arjun Kumar,24,Male,Kolkata,Asthma
+950,Rahul Kumar,34,Female,Mumbai,Hypertension
+951,Arjun Khan,23,Female,Mumbai,Arthritis
+952,Priya Patel,68,Female,Chennai,Heart Disease
+953,Ravi Reddy,56,Female,Hyderabad,Arthritis
+954,Sara Singh,23,Male,Pune,Asthma
+955,Kiran Singh,77,Male,Mumbai,Arthritis
+956,David Sharma,58,Female,Hyderabad,Asthma
+957,John Sharma,38,Male,Pune,Flu
+958,Ravi Nair,27,Male,Kochi,Heart Disease
+959,Sara Reddy,32,Female,Delhi,Heart Disease
+960,Rahul Kumar,39,Male,Kolkata,Flu
+961,Ravi Sharma,53,Female,Delhi,Diabetes
+962,Kiran Singh,67,Male,Chennai,Heart Disease
+963,John Nair,49,Female,Mumbai,Flu
+964,Sara Nair,33,Male,Delhi,Heart Disease
+965,Meera Reddy,25,Female,Kochi,Asthma
+966,Meera Nair,38,Female,Hyderabad,Asthma
+967,Rahul Patel,57,Female,Chennai,Heart Disease
+968,Amit Nair,30,Female,Chennai,Arthritis
+969,Priya Reddy,65,Male,Mumbai,Flu
+970,Rahul Khan,18,Female,Bengaluru,Asthma
+971,Anjali Joseph,19,Female,Mumbai,Arthritis
+972,John Nair,31,Female,Kolkata,Flu
+973,Ravi Kumar,62,Male,Kochi,Flu
+974,David Sharma,34,Male,Hyderabad,Asthma
+975,Sneha Khan,21,Female,Hyderabad,Diabetes
+976,Kiran Khan,60,Female,Bengaluru,Diabetes
+977,Arjun Singh,32,Female,Bengaluru,Asthma
+978,Anjali Reddy,29,Male,Kolkata,Flu
+979,Ravi Sharma,20,Male,Delhi,Asthma
+980,Anjali Singh,65,Male,Hyderabad,Asthma
+981,David Patel,40,Female,Mumbai,Flu
+982,Arjun Sharma,58,Female,Kochi,Diabetes
+983,John Khan,32,Male,Pune,Heart Disease
+984,David Kumar,23,Female,Mumbai,Heart Disease
+985,Sneha Kumar,45,Female,Pune,Heart Disease
+986,John Kumar,31,Male,Mumbai,Hypertension
+987,Arjun Kumar,45,Male,Chennai,Asthma
+988,Priya Reddy,29,Female,Chennai,Arthritis
+989,Amit Patel,74,Female,Kochi,Asthma
+990,Anjali Khan,27,Male,Bengaluru,Hypertension
+991,Rahul Sharma,66,Female,Mumbai,Flu
+992,Sneha Nair,61,Male,Pune,Diabetes
+993,Ravi Joseph,26,Female,Pune,Hypertension
+994,Kiran Joseph,48,Male,Chennai,Hypertension
+995,Sneha Sharma,44,Male,Delhi,Heart Disease
+996,Sneha Nair,66,Male,Bengaluru,Hypertension
+997,Anjali Joseph,62,Female,Kolkata,Hypertension
+998,Kiran Singh,67,Male,Kochi,Arthritis
+999,Meera Singh,57,Male,Bengaluru,Heart Disease
+1000,Anjali Sharma,74,Male,Kochi,Arthritis
