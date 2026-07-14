@@ -1,9 +1,10 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col,count,when
 from src.common.spark_session import create_spark_session
+from src.common.reader import read_csv
 
 spark = create_spark_session("Healthcare Bronze Pipeline")
-prescriptions_df  = spark.read.csv("data/raw/prescriptions(1).csv",header=True,inferSchema=True)
+prescriptions_df  = read_csv(spark,"data/raw/prescriptions(1).csv")
 # Display Schema
 prescriptions_df.printSchema()
 # Show Data
