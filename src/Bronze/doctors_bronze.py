@@ -8,3 +8,19 @@ doctors_df.printSchema()
 doctors_df.show(10)
 # Number of records
 print(f"Total Records: {doctors_df.count()}")
+
+from pyspark.sql.functions import col,count,when
+
+doctors_df.select([
+    count(when(col(column).isNull(), column)).alias(column)
+    for column in doctors_df.columns
+]).show()
+
+print("Duplicate Doctor IDs")
+
+doctors_df.groupBy("doctor_id") \
+    .count() \
+    .filter("count > 1") \
+    .show()
+    
+doctors_df.printSchema()
