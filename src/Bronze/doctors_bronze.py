@@ -1,6 +1,7 @@
 from pyspark.sql import SparkSession
+from src.common.spark_session import create_spark_session
 
-spark = SparkSession.builder.appName("Healthcare Bronze Pipeline").getOrCreate()
+spark = create_spark_session("Health Care Bronze Pipeline")
 doctors_df  = spark.read.csv("data/raw/doctors.csv",header=True,inferSchema=True)
 # Display Schema
 doctors_df.printSchema()
