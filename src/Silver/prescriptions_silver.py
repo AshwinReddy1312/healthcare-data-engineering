@@ -34,23 +34,23 @@ prescriptions_df = prescriptions_df.filter(
 # Remove Records with Null Medicine Name
 # ---------------------------------------------------
 prescriptions_df = prescriptions_df.filter(
-    col("medicine_name").isNotNull()
+    col("medicine").isNotNull()
 )
 
 # ---------------------------------------------------
 # Remove Extra Spaces from Medicine Name
 # ---------------------------------------------------
 prescriptions_df = prescriptions_df.withColumn(
-    "medicine_name",
-    trim(col("medicine_name"))
+    "medicine",
+    trim(col("medicine"))
 )
 
 # ---------------------------------------------------
 # Standardize Medicine Name
 # ---------------------------------------------------
 prescriptions_df = prescriptions_df.withColumn(
-    "medicine_name",
-    initcap(col("medicine_name"))
+    "medicine",
+    initcap(col("medicine"))
 )
 
 # ---------------------------------------------------

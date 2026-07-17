@@ -1,6 +1,6 @@
 from src.common.spark_session import create_spark_session
 from src.common.reader import read_csv
-from spark.sql.functions import col, initcap, trim
+from pyspark.sql.functions import col, initcap, trim
 
 # Create Spark Session
 spark = create_spark_session("Healthcare Silver Pipeline")
